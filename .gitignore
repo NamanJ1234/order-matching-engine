@@ -1,0 +1,6 @@
+engine
+benchmark
+benchmark_prof
+gmon.out
+*.o
+*.dSYM
